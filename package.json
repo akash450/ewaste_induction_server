@@ -8,6 +8,9 @@
     "dev": "nodemon server.js",
     "start": "node server.js"
   },
+  "engines": {
+    "node": ">=14.20.1"
+  },
   "author": "Akash Iyer",
   "license": "ISC",
   "dependencies": {
